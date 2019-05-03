@@ -1,0 +1,11 @@
+1. new issue
+2. create branch from specified source on server
+3. git pull using git bash
+4. git checkout to the created branch
+5. modify related files
+6. git add filename
+7. git commit
+8. git push
+9. create merge request
+10. after merged, git checkout master, and then delete both the remote branch and the local branch
+11. git pull
